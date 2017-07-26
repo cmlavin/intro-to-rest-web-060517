@@ -1,7 +1,6 @@
 # Introduction to REST
 
 ## Objectives
-
 1. Explain the history of REST
 2. Explain the main actions involved in RESTful architectures
 3. Describe the relationship between REST and HTTP
